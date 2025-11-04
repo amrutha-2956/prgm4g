@@ -1,3 +1,2 @@
-# prgm4g
-hii
-welcome to git lab
+hi
+this is my github acc
